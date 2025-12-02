@@ -32,8 +32,8 @@ I’m a second-year student at **Zhejiang University-University of Illinois Urba
 - **目前状态**：一名正在探索技术与科学的初学者
 
 ## 📚 我的项目
-- 跟随 [孟祥明](https://mengxiangming.github.io)老师解决Gaussian Mixture Flow Matching for Inverse Problem的研究，主要负责代码构建，[项目主页](https://github.com/hasson827/GMFInverse)。
-- 跟魏 [孟祥明](https://mengxiangming.github.io)老师与[张瑜](https://psychology.sjtu.edu.cn/tsml/442.html)老师 进行Neural Encoding and Decoding for Image Reconstruction的研究，主要负责代码构建。
+- 跟随[孟祥明](https://mengxiangming.github.io)老师解决Gaussian Mixture Flow Matching for Inverse Problem的研究，主要负责代码构建，[项目主页](https://github.com/hasson827/GMFInverse)。
+- 跟随[孟祥明](https://mengxiangming.github.io)老师与[张瑜](https://psychology.sjtu.edu.cn/tsml/442.html)老师 进行Neural Encoding and Decoding for Image Reconstruction的研究，主要负责代码构建。
 - 自行整理浙江大学海宁国际校区25年秋季学期所有学科所有课件、笔记、试卷、资源并整合开源，[项目主页](https://github.com/hasson827/ZJUI_2025_FA_Notes)
 - 自行整理浙江大学海宁国际校区25年春季学期ECE220所有课件、笔记、试卷、资源并整合开源，[项目主页](https://github.com/hasson827/ZJUI_ECE_220)
 - 自行整理数据结构相关内容并整合开源，[项目主页](https://github.com/hasson827/Data_Structure)
