@@ -55,5 +55,3 @@ I’m a second-year student at **Zhejiang University-University of Illinois Urba
 
 - Email: [hongshuo.24@intl.zju.edu.cn](mailto:hongshuo.24@intl.zju.edu.cn) or [hz108@illinois.edu](mailto:hz108@illinois.edu)
 - 欢迎 Star 我的仓库，或一起聊聊 AI ，排球，和代码的奇妙世界！
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasson827&show_icons=true&theme=radical)
