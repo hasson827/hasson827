@@ -1,3 +1,9 @@
+---
+# the default layout is 'page'
+icon: fas fa-info-circle
+order: 4
+---
+
 # Hello, I'm Hasson
 
 I’m a second-year student at **Zhejiang University-University of Illinois Urbana-Champaign Institute (ZJUI)**, passionate about artificial intelligence and generative models.
@@ -12,20 +18,14 @@ I’m a second-year student at **Zhejiang University-University of Illinois Urba
 
 - Worked with Prof. [Xiangming Meng](https://mengxiangming.github.io) on the research project titled **"Gaussian Mixture Flow Matching for Inverse Problems"**, primarily responsible for code implementation. [Project Repository](https://github.com/hasson827/GMFInverse).  
 - Collaborated with Prof. [Xiangming Meng](https://mengxiangming.github.io) and Prof. [Yu Zhang](https://psychology.sjtu.edu.cn/tsml/442.html) on the research project **"Neural Encoding and Decoding for Image Reconstruction"**, primarily responsible for code implementation.  
-- Independently compiled, organized, and open-sourced all course materials—including lecture notes, slides, past exams, and learning resources—for **ECE220 in the Spring 2025 semester** at ZJUI. [Project Repository](https://github.com/hasson827/ZJUI_ECE_220).  
-- Independently compiled, organized, and open-sourced all course materials-including lecture notes, slides, past exams, and learning resources-for **MATH241 in the Fall 2025 semester** at ZJUI. [Project Repository](https://github.com/hasson827/ZJUI_MATH_241).
-- Independently compiled and open-sourced comprehensive learning materials on **Data Structures**, including theoretical notes, algorithm implementations, and practice problems. [Project Repository](https://github.com/hasson827/Data_Structure).
+- Worked with Prof. [Ong Wee-Liat](https://person.zju.edu.cn/owl) on the research project titled **Artificial Intelligence-Driven Research on Phonon Band Structure Prediction for High-Throughput Screening of Material Thermal Properties**, primarily responsible for code implementation and paper writting. [Project Repository](https://github.com/hasson/VGNNA)
 - Independently design the CV template for **ZJUI** students using LaTex. [Project Repository](https://github.com/hasson827/ZJUI_CV)
-
-## 🚀 Future Plans
-
-- Dive deeper into generative model applications (e.g., image generation or physical simulations)
-- Develop and expand the learning and note community of the school to benefit all students in the grade.
+- Independently design an extension based on shell and [SwiftBar](https://swiftbar.app/) to track server parameters in real time in the Mac Control Center. [Project Repository](https//github.com/hasson827/Server_All_In_One)
 
 ## 📫 Contact Me
 
 - Email: [hongshuo.24@intl.zju.edu.cn](mailto:hongshuo.24@intl.zju.edu.cn) or [hz108@illinois.edu](mailto:hz108@illinois.edu)
-- Feel free to star my repositories or reach out to discuss AI, volleyball, or coding!
+- Wechat: Hasson827624
 
 # 你好，我是赵鸿硕
 
@@ -41,17 +41,11 @@ I’m a second-year student at **Zhejiang University-University of Illinois Urba
 
 - 跟随[孟祥明](https://mengxiangming.github.io)老师解决Gaussian Mixture Flow Matching for Inverse Problem的研究，主要负责代码构建，[项目主页](https://github.com/hasson827/GMFInverse)。
 - 跟随[孟祥明](https://mengxiangming.github.io)老师与[张瑜](https://psychology.sjtu.edu.cn/tsml/442.html)老师 进行Neural Encoding and Decoding for Image Reconstruction的研究，主要负责代码构建。
-- 自行整理浙江大学海宁国际校区25年秋季学期MATH241所有课件、笔记、试卷、资源并整合开源，[项目主页](https://github.com/hasson827/ZJUI_MATH_241)
-- 自行整理浙江大学海宁国际校区25年春季学期ECE220所有课件、笔记、试卷、资源并整合开源，[项目主页](https://github.com/hasson827/ZJUI_ECE_220)
-- 自行整理数据结构相关内容并整合开源，[项目主页](https://github.com/hasson827/Data_Structure)
+- 跟随[王伟烈](https://person.zju.edu.cn/owl)教授开展**面向材料热性能高通量筛选的AI驱动声子能带预测研究**研究项目，主要负责代码实现和论文撰写。[项目仓库](https://github.com/hasson827/VGNNA)
 - 自行用LaTex设计ZJUI学院学生的中文简历模板，[项目主页](https://github.com/hasson827/ZJUI_CV)
-
-## 🚀 未来计划
-
-- 深入生成模型的应用（如图像生成或物理模拟）
-- 开发并拓展学校的学习笔记交流社区，使本年级所有学生受益。
+独立设计了一个基于 shell 和 [SwiftBar](https://swiftbar.app/) 的扩展程序，可在 Mac 控制中心实时跟踪服务器参数。[项目仓库](https://github.com/hasson827/Server_All_In_One)
 
 ## 📫 联系我
 
-- Email: [hongshuo.24@intl.zju.edu.cn](mailto:hongshuo.24@intl.zju.edu.cn) or [hz108@illinois.edu](mailto:hz108@illinois.edu)
-- 欢迎 Star 我的仓库，或一起聊聊 AI ，排球，和代码的奇妙世界！
+- 邮箱: [hongshuo.24@intl.zju.edu.cn](mailto:hongshuo.24@intl.zju.edu.cn) 或 [hz108@illinois.edu](mailto:hz108@illinois.edu)
+- 微信: Hasson827624
