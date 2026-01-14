@@ -1,9 +1,3 @@
----
-# the default layout is 'page'
-icon: fas fa-info-circle
-order: 4
----
-
 # Hello, I'm Hasson
 
 I’m a second-year student at **Zhejiang University-University of Illinois Urbana-Champaign Institute (ZJUI)**, passionate about artificial intelligence and generative models.
